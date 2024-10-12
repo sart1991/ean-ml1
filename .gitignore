@@ -17,3 +17,6 @@
 
 .venv
 /poetry.toml
+
+# ignore models
+/models/*
